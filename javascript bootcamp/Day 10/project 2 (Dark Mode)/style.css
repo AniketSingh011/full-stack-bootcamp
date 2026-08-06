@@ -1,0 +1,17 @@
+body{
+    font-family: Arial;
+    text-align:center;
+    margin-top:100px;
+    background:white;
+    color:black;
+}
+
+.dark{
+    background:#222;
+    color:white;
+}
+
+button{
+    padding:10px 20px;
+    font-size:18px;
+}
