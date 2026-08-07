@@ -54,4 +54,6 @@ let employees = [
 
 for (let i = 0; i < employees.length; i++) {
     console.log(employees[i].name);
+    
 }
+

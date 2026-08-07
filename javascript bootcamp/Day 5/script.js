@@ -19,6 +19,7 @@ fruits[1] = "Orange";
 console.log("=== Updated Array ===");
 console.log(fruits);
 
+
 // Array Length
 console.log("Total Fruits:", fruits.length);
 

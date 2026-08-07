@@ -18,5 +18,8 @@ para.style.fontSize = "22px";
 // Challenge 4
 para.style.color = "blue";
 
+
+
+
 // Challenge 5
 document.getElementById("changeBtn").style.backgroundColor = "orange";

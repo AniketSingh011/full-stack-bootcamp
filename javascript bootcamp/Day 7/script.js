@@ -49,6 +49,9 @@ console.log(checkEven(9));
 // Square Function
 function square(number) {
     return number * number;
+
+
+    
 }
 
 console.log(square(7));

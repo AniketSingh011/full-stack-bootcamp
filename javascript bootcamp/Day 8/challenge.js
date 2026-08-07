@@ -36,6 +36,10 @@ function greet() {
     console.log("Welcome!");
 }
 
+
+
+
+
 // Challenge 5
 console.log(score);
 
